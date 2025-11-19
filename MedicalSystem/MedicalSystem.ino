@@ -111,14 +111,15 @@ void printRecord(String record) {
   lcd.print("Medicine Name:");
   lcd.setCursor(0, 1);
   lcd.print(fields[2].substring(0, len - 2));
-  delay(2000);
+  delay(5000);
 
   lcd.clear();
   lcd.setCursor(0, 0);
   lcd.print("Dose: " + fields[3] + fields[2].substring(len - 2));
+  lcd.setCursor(13, 0);
+  lcd.print("NO" + fields[5]);
   lcd.setCursor(0, 1);
   lcd.print("Daily Amount: " + fields[4]);
-  delay(2000);
 
   int servoNum = fields[5].toInt();
   servos[servoNum - 1].write(180);
@@ -130,4 +131,3 @@ void printRecord(String record) {
   servos[servoNum - 1].write(90);
   lcd.clear();
 }
-

@@ -129,5 +129,6 @@ void printRecord(String record) {
   servos[servoNum - 1].write(180);
   delay(978); // for v5.0
   servos[servoNum - 1].write(90);
+  
   lcd.clear();
 }

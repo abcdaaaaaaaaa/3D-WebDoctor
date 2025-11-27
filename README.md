@@ -48,7 +48,7 @@ Our system supports both voice and text input. 3D Web Doctor switches to speech 
 You can select the options by clicking Even if you select an option, you can change it until the system moves on to the next question. 
 After selecting an option, the system will move on to the next question within a few seconds.
 
-<img width="1000" height="500" alt="answer" src="https://github.com/user-attachments/assets/820e0dfb-584b-4d0e-ad66-2b00268ab390" />
+<img width="1000" height="500" alt="answertrue" src="https://github.com/user-attachments/assets/dde4cd04-caf5-4dc5-9af6-f0757bd92ed9" />
 
 When the system is first opened, it aims to determine your general condition. It then uses specialized questions to identify your specific condition.
 

@@ -95,11 +95,11 @@ After the check, the medical medicine cabinet transfer process begins with this 
 
 The medical medicine cabinet approval process is summarized as follows: Should it be forwarded to the medical medicine cabinet? If yes, fill out the general justification. If no, ask if you want to fill out the detailed justification. If you want to fill out the detailed justification, fill out the general justification immediately after the detailed justification. If you don't want to fill out the detailed justification, fill out the general justification. Then save the results with all the details in SQL. Update the information on the (which means to turkish "Özgecmiş") page by adding the forwarding processes.
 
-Accept:
+<strong>Accept:</strong>
 
 <img width="193" height="142" alt="accept" src="https://github.com/user-attachments/assets/51b43290-fc8c-4bb7-a401-3529be9cf3a0" />
 
-Refuse:
+<strong>Refuse:</strong>
 
 <img width="168" height="95" alt="refuse1" src="https://github.com/user-attachments/assets/8a614bce-ec5a-4baf-a953-aa7c1928d963" />
 <img width="195" height="133" alt="detailrefuse" src="https://github.com/user-attachments/assets/cd26deea-d7b7-4510-9d9d-c933700f625e" />

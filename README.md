@@ -135,3 +135,7 @@ All results are saved in SQL to be always available!
 <strong>Pharmacy Result SQL:</strong>
 
 <img width="1000" height="100" alt="pharmacy_resultsql" src="https://github.com/user-attachments/assets/eafc4cab-36b1-42e6-aefd-1c50eaf3566f" />
+
+## Medical Medicine Cabinet
+
+<img width="1000" alt="cabinet" src="https://github.com/user-attachments/assets/16c36ee1-23a1-4e71-81b1-fa581659bea1" />

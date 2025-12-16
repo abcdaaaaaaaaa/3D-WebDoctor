@@ -4,7 +4,7 @@ CREATE TABLE users (
     name VARCHAR(30) NOT NULL,
     surname VARCHAR(30) NOT NULL,
     date_of_birth VARCHAR(10) NOT NULL,
-    password VARCHAR(255) NOT NULL,
+    password VARCHAR(255) NOT NULL UNIQUE,
     information VARCHAR(500) NOT NULL,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 ) CHARACTER SET utf8mb4
